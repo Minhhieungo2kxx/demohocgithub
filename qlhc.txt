@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-dadadadsdfgfdgvc
-=======
+
 adadadad
->>>>>>> handsome
+
